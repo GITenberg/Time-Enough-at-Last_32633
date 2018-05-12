@@ -1,0 +1,31 @@
+_repo: Time-Enough-at-Last_32633
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32633-h/images/cover.png
+creator:
+  author:
+    agent_name: Venable, Lyn
+    aliases:
+    - Venable, Lynn A.
+    - Venable, Marilyn
+    gutenberg_agent_id: '33761'
+    url: http://www.gutenberg.org/2009/agents/33761
+description: The atomic bomb meant, to most people, the end. To Henry Bemis it meant
+  something far different-a thing to appreciate and enjoy.
+gutenberg_issued: '2010-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Books and reading -- Fiction'
+- !lcsh 'Nuclear warfare -- Fiction'
+title: Time Enough at Last
+url: http://www.gutenberg.org/ebooks/32633
